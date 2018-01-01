@@ -12,6 +12,7 @@ namespace VS2017_20180101.Controllers
     {
         public IActionResult Index()
         {
+			//hello world Index
             return View();
         }
 
